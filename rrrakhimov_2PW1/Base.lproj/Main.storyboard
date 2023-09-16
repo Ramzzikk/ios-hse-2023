@@ -104,7 +104,6 @@
                                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                                             </view>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <directionalEdgeInsets key="directionalLayoutMargins" top="8" leading="8" bottom="8" trailing="8"/>
                                     </view>
                                 </subviews>
